@@ -9,4 +9,5 @@ I'm currently gaining programming experience at JP Morgan Chase as a Junior Soft
 - Python
 - Java
 - C++
+- MySQL
 
