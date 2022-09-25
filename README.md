@@ -1,4 +1,4 @@
-# Hey, it's Ved! 🦾
+# Greetings, it's Ved! 🦾
 
 I'm currently gaining programming experience at JP Morgan Chase as a Junior Software Engineer
 
